@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 May 2024 15:24:00 at https://wordpress.revanoid.com/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wordpress.revanoid.com/index.php -O1 "C:\Users\HP\Downloads\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:24:43	Warning: 	Found for https://wordpress.revanoid.com/checkout/
+15:24:43	Warning: 	File has moved from https://wordpress.revanoid.com/checkout/ to https://wordpress.revanoid.com/cart/
+15:25:15	Error: 	"Not Found" (404) at link https://wordpress.revanoid.com/wp-content/plugins/woocommerce/assets/fonts/star.eot (from https://wordpress.revanoid.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.6.14)
+15:25:15	Error: 	"Not Found" (404) at link https://wordpress.revanoid.com/wp-content/plugins/woocommerce/assets/fonts/star.eot? (from https://wordpress.revanoid.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.6.14)
+15:25:16	Error: 	"Not Found" (404) at link https://wordpress.revanoid.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot (from https://wordpress.revanoid.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.6.14)
+15:25:16	Error: 	"Not Found" (404) at link https://wordpress.revanoid.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot? (from https://wordpress.revanoid.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.6.14)
+15:25:27	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=10
+15:25:27	Warning: 	File has moved from https://wordpress.revanoid.com/?p=10 to https://wordpress.revanoid.com/cart/
+15:25:27	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=12
+15:25:27	Warning: 	File has moved from https://wordpress.revanoid.com/?p=12 to https://wordpress.revanoid.com/my-account/
+15:25:29	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=41
+15:25:29	Warning: 	File has moved from https://wordpress.revanoid.com/?p=41 to https://wordpress.revanoid.com/product/causal-shoes/
+15:25:45	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=43
+15:25:45	Warning: 	File has moved from https://wordpress.revanoid.com/?p=43 to https://wordpress.revanoid.com/product/formal-black/
+15:25:50	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=49
+15:25:50	Warning: 	File has moved from https://wordpress.revanoid.com/?p=49 to https://wordpress.revanoid.com/product/mens-sandals/
+15:25:54	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=44
+15:25:54	Warning: 	File has moved from https://wordpress.revanoid.com/?p=44 to https://wordpress.revanoid.com/product/premium-formal/
+15:25:54	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=113
+15:25:54	Warning: 	File has moved from https://wordpress.revanoid.com/?p=113 to https://wordpress.revanoid.com/product/formals/
+15:25:59	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=46
+15:25:59	Warning: 	File has moved from https://wordpress.revanoid.com/?p=46 to https://wordpress.revanoid.com/product/sandals/
+15:26:00	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=111
+15:26:00	Warning: 	File has moved from https://wordpress.revanoid.com/?p=111 to https://wordpress.revanoid.com/product/sandals-2/
+15:26:05	Error: 	"Not Found" (404) at link https://wordpress.revanoid.com/-negative.svg (from https://wordpress.revanoid.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.5)
+15:26:05	Error: 	"Not Found" (404) at link https://wordpress.revanoid.com/OPR/ (from https://wordpress.revanoid.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.5)
+15:26:05	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=42
+15:26:05	Warning: 	File has moved from https://wordpress.revanoid.com/?p=42 to https://wordpress.revanoid.com/product/casual-nike-blue/
+15:26:08	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=45
+15:26:08	Warning: 	File has moved from https://wordpress.revanoid.com/?p=45 to https://wordpress.revanoid.com/product/casual-shoes/
+15:26:10	Warning: 	Moved Permanently for https://wordpress.revanoid.com/?p=50
+15:26:10	Warning: 	File has moved from https://wordpress.revanoid.com/?p=50 to https://wordpress.revanoid.com/product/woodland-shoes/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 23 seconds : 412 links scanned, 392 files written (35369440 bytes overall) [11648403 bytes received at 81457 bytes/sec], 30925329 bytes transferred using HTTP compression in 345 files, ratio 19%, 17.2 requests per connection
+(6 errors, 26 warnings, 0 messages)

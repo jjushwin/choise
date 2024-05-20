@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wordpress.revanoid.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+wordpress.revanoid.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_d47201d48782e3801c3d14bb27a07c89	t_cb29efa809bd535ba4fad6ab855cb0%7C%7C1716371670%7C%7C1716368070%7C%7Ca99709e07c4e090e8dab6292ae2a8eb6
+wordpress.revanoid.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	3756467bce5a5a88a165a2a58195d007
+
